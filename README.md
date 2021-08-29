@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏽
 
+### My name is Raied, and I am a junior at the University of Pittsburgh studying computer science and aiming to graduate in Spring 2023
 <!--
 **raied7/raied7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
